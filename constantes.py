@@ -3,7 +3,7 @@
 
 print("Lista de contatos:")
 
-lista = ["Guilherme" , "Analise" , "Caio", "Danilo", "luan", "Pedro"]
+lista = ["Ricardo", "Guilherme" , "Analise" , "Caio", "Danilo", "luan", "Pedro"]
 Ações = 5 
 while Ações != 0:
     Ações = int(input("O que você quer fazer? \n [1] - Cadastrar pessoas \n [2] - Listar pessoas \n [3] - Excluir_pessoas \n [0] - Sair \n"))
